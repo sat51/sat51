@@ -52,7 +52,7 @@ I am Satyam Tiwari, currently pursuing my B.Tech degree in Computer Science from
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/_2B_201500627])
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/_2B_201500627)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/satyam_tiwari/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/satyam432st/profile)
 
