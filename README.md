@@ -61,7 +61,7 @@ I am Satyam Tiwari, currently pursuing my B.Tech degree in Computer Science from
 
 <p align="center">
     <a href="https://github.com/sat51/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vibhu Rathore's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satyam Tiwari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -77,7 +77,7 @@ I am Satyam Tiwari, currently pursuing my B.Tech degree in Computer Science from
 <br/>
 <br/>
 
-<a href="https://github.com/sat51/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vibhurathore09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sat51/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sat51&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -93,6 +93,6 @@ I am Satyam Tiwari, currently pursuing my B.Tech degree in Computer Science from
 </p>
 
 ## ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sat51&label=Profile%20views&color=0e75b6&style=flat" alt="Vibhurathore09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sat51&label=Profile%20views&color=0e75b6&style=flat" alt="sat51" /> </p>
 </a>
 <a href="https://github.com/sat51?tab=followers"><img src="https://img.shields.io/github/followers/sat51?label=Followers&style=social" alt="GitHub Badge"></a>
